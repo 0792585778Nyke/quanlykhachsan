@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="06e1c56ae6c843189c6740f056f0d09c" Name="Diagram1" ZoomLevel="79">
+        <EntityTypeShape EntityType="QLKSModel.BILL" Width="1.5" PointX="5.25" PointY="8.5" />
+        <EntityTypeShape EntityType="QLKSModel.BOOKROOM" Width="1.5" PointX="8.25" PointY="8.375" />
+        <EntityTypeShape EntityType="QLKSModel.CUSTOMER" Width="1.5" PointX="3" PointY="11.875" />
+        <EntityTypeShape EntityType="QLKSModel.HOTELSERVICE" Width="1.5" PointX="3" PointY="8.75" />
+        <EntityTypeShape EntityType="QLKSModel.ROOM" Width="1.5" PointX="3" PointY="15.5" />
+        <EntityTypeShape EntityType="QLKSModel.STAFF" Width="1.5" PointX="0.75" PointY="4.875" />
+        <EntityTypeShape EntityType="QLKSModel.USER" Width="1.5" PointX="3" PointY="5" />
+        <EntityTypeShape EntityType="QLKSModel.USERSROLE" Width="1.5" PointX="0.75" PointY="1.625" />
+        <AssociationConnector Association="QLKSModel.BILL_CUS_ID_FK" />
+        <AssociationConnector Association="QLKSModel.BILL_RO_ID_FK" />
+        <AssociationConnector Association="QLKSModel.BILL_SER_ID_FK" />
+        <AssociationConnector Association="QLKSModel.FK__BOOKROOM__CUS_ID__44FF419A" />
+        <AssociationConnector Association="QLKSModel.FK__BOOKROOM__RO_ID__45F365D3" />
+        <AssociationConnector Association="QLKSModel.FK__BOOKROOM__SER_ID__46E78A0C" />
+        <AssociationConnector Association="QLKSModel.FK__HOTELSERV__STAFF__3B75D760" />
+        <AssociationConnector Association="QLKSModel.FK__USERS__STAFF_ID__4BAC3F29" />
+        <AssociationConnector Association="QLKSModel.FK__USERS__ROLE_ID__4CA06362" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
