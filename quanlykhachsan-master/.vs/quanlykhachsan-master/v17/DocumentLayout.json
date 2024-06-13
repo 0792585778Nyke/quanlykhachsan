@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LogupWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\LogupWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\NewCustomerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\NewCustomerWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\RoomBookWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\RoomBookWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\RoomViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\ViewModel\\RoomViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\Model\\BOOKROOM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\Model\\BOOKROOM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.WinFx.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\RoomBookWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\PageRoom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\PrintBillWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\PageRoom.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\PrintBillWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageCustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\PageCustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyKhachSan\\ViewModel\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogupWindow.xaml.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LogupWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\LogupWindow.xaml.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LogupWindow.xaml.cs*",
+              "RelativeToolTip": "QuanLyKhachSan\\LogupWindow.xaml.cs*",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:12:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:12:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewCustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\NewCustomerWindow.xaml.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\NewCustomerWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:07:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\NewCustomerWindow.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\NewCustomerWindow.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\NewCustomerWindow.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T18:07:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomBookWindow.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\RoomBookWindow.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\RoomBookWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T15:02:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomBookWindow.xaml.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\RoomBookWindow.xaml.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\RoomBookWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:45:57.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\App.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T16:54:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\ViewModel\\RoomViewModel.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\RoomViewModel.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\ViewModel\\RoomViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:23:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BOOKROOM.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\Model\\BOOKROOM.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Model\\BOOKROOM.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\Model\\BOOKROOM.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Model\\BOOKROOM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:23:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomBookWindow.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\RoomBookWindow.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\RoomBookWindow.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\RoomBookWindow.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T15:01:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageRoom.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\PageRoom.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\PageRoom.xaml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:59:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageRoom.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\PageRoom.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageRoom.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\PageRoom.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:59:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrintBillWindow.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\PrintBillWindow.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\PrintBillWindow.xaml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:59:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.WinFx.targets",
+              "DocumentMoniker": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.WinFx.targets",
+              "ToolTip": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\Microsoft.WinFx.targets",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAUwAsBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-13T15:17:35.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrintBillWindow.xaml",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\PrintBillWindow.xaml",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PrintBillWindow.xaml",
+              "RelativeToolTip": "QuanLyKhachSan\\PrintBillWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:58:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PageCustomer.xaml.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\PageCustomer.xaml.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\PageCustomer.xaml.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\PageCustomer.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:44:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewCustomerViewModel.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\ViewModel\\NewCustomerViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:43:34.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:39:49.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.config",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\App.config",
+              "ToolTip": "D:\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan-master\\QuanLyKhachSan\\App.config",
+              "RelativeToolTip": "QuanLyKhachSan\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T14:39:03.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

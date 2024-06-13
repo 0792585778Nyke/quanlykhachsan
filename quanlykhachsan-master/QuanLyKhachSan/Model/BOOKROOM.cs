@@ -16,6 +16,9 @@ namespace QuanLyKhachSan.Model
     {
         public int B_ID { get; set; }
         public string CUS_ID { get; set; }
+        public string CUS_ID1 { get; set; }
+        public string CUS_ID2 { get; set; }
+        public string CUS_ID3 { get; set; }
         public string CUS_NAME { get; set; }
         public string RO_ID { get; set; }
         public string SER_ID { get; set; }

@@ -62,6 +62,12 @@ namespace QuanLyKhachSan
             if(!regexItem.IsMatch(username.Text))
             MessageBox.Show("Không thể chứa các ký tự đặc biệt!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             else
+            if (password.Password.Length < 6 || !Regex.IsMatch(password.Password, @"^(?=.*[a-zA-Z0-9]$"))
+                {
+                MessageBox.Show("Mật khẩu phải có tối thiểu 6 ký tự, bao gồm chữ, số ","Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                flag = false;
+            }
+            else
             {
                 string passEncode = MD5Hash(Base64Encode(password.Password));
                 int temp = DataProvider.Ins.DB.USERS.Count();

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\PC\Desktop\quanlykhachsan-master\QuanLyKhachSan\obj\Debug\
+D:\quanlykhachsan\quanlykhachsan\quanlykhachsan-master\QuanLyKhachSan\obj\Debug\
 QuanLyKhachSan
 none
 false
 DEBUG;TRACE
-C:\Users\PC\Desktop\quanlykhachsan-master\QuanLyKhachSan\App.xaml
+D:\quanlykhachsan\quanlykhachsan\quanlykhachsan-master\QuanLyKhachSan\App.xaml
 24-1773749800
 2739969757
 58-1208119300
-13286470456
+1321017388242
 BillWindow.xaml;ChangePasswordWindow.xaml;EditBooking.xaml;EditCustomerWindow.xaml;EditServiceWindow.xaml;EditStaffWindow.xaml;LoginWindow.xaml;LogupWindow.xaml;MainWindow.xaml;NewCustomerWindow.xaml;NewServicesWindow.xaml;NewStaffWindow.xaml;PageCustomer.xaml;PageEmployee.xaml;PageReport.xaml;PageRoom.xaml;PageSuplier.xaml;PageUser.xaml;PrintBillWindow.xaml;PrintReportWindow.xaml;ResourceXAML\MainResource.xaml;RoomBookWindow.xaml;SelectionStaffWindow.xaml;UserControlQL\ControlBarUC.xaml;
 
 False
